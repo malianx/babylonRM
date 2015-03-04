@@ -28,21 +28,23 @@ races =
 {
     --HW2 races
   	{"Invalid",  "Invalid", "", "", 0, NotPlayable, 1, "" },
-	{"Hiigaran", "$1100", "hyperspace_gate", "etg/special/SPECIAL_ABILITIES_HYPERSPACE_IN", 9.5, Playable, 1, "HGN_"},
-	{"Vaygr",    "$1101", "hyperspace_gate_vgr", "etg/special/SPECIAL_ABILITIES_HYPERSPACE_IN", 9.5, Playable, 1, "VGR_"},
-	{"Keeper",  "$1102", "hyperspace_gate_kpr", "etg/special/SPECIAL_ABILITIES_HYPERSPACE_IN", 12.5, NotPlayable, 1, "KPR_"},
-	{"Bentusi",  "$1103", "hyperspace_gate_bentusi", "etg/special/SPECIAL_ABILITIES_HYPERSPACE_IN", 18.5, NotPlayable, 1, "BEN_"},
+	--{"Hiigaran", "$1100", "hyperspace_gate", "etg/special/SPECIAL_ABILITIES_HYPERSPACE_IN", 9.5, Playable, 1, "HGN_"},
+	--{"Vaygr",    "$1101", "hyperspace_gate_vgr", "etg/special/SPECIAL_ABILITIES_HYPERSPACE_IN", 9.5, Playable, 1, "VGR_"},
+	--{"Keeper",  "$1102", "hyperspace_gate_kpr", "etg/special/SPECIAL_ABILITIES_HYPERSPACE_IN", 12.5, NotPlayable, 1, "KPR_"},
+	--{"Bentusi",  "$1103", "hyperspace_gate_bentusi", "etg/special/SPECIAL_ABILITIES_HYPERSPACE_IN", 18.5, NotPlayable, 1, "BEN_"},
 
     --HW1 races
-	{"Kushan", "$1104", "hyperspace_gate", "etg/special/SPECIAL_ABILITIES_HYPERSPACE_IN", 9.5, Playable, 0, "KUS_"},
-	{"Taiidan", "$1105", "hyperspace_gate", "etg/special/SPECIAL_ABILITIES_HYPERSPACE_IN", 9.5, Playable, 0, "TAI_"},
-	{"Turanic Raiders", "$1106", "hyperspace_gate", "etg/special/SPECIAL_ABILITIES_HYPERSPACE_IN", 9.5, NotPlayable, 0, "TUR_"},
-	{"Kadeshi", "$1107", "hyperspace_gate", "etg/special/SPECIAL_ABILITIES_HYPERSPACE_IN", 9.5, NotPlayable, 0, "KAD_"},
-	{"P3", "P3", "hyperspace_gate", "etg/special/SPECIAL_ABILITIES_HYPERSPACE_IN", 9.5, NotPlayable, 0, "BEN_"},
+	--{"Kushan", "$1104", "hyperspace_gate", "etg/special/SPECIAL_ABILITIES_HYPERSPACE_IN", 9.5, Playable, 0, "KUS_"},
+	--{"Taiidan", "$1105", "hyperspace_gate", "etg/special/SPECIAL_ABILITIES_HYPERSPACE_IN", 9.5, Playable, 0, "TAI_"},
+	--{"Turanic Raiders", "$1106", "hyperspace_gate", "etg/special/SPECIAL_ABILITIES_HYPERSPACE_IN", 9.5, NotPlayable, 0, "TUR_"},
+	--{"Kadeshi", "$1107", "hyperspace_gate", "etg/special/SPECIAL_ABILITIES_HYPERSPACE_IN", 9.5, NotPlayable, 0, "KAD_"},
+	--{"P3", "P3", "hyperspace_gate", "etg/special/SPECIAL_ABILITIES_HYPERSPACE_IN", 9.5, NotPlayable, 0, "BEN_"},
     --pirate races to go here...
 
 	-- Babylon RM Races
-	{"Earth Force Alliance", "Earth Force Alliance", "hyperspace_gate", "etg/special/SPECIAL_ABILITIES_HYPERSPACE_IN", 9.5, Playable, 1, "HGN_"},
+	{"Earth Force", "Earth Force", "hyperspace_gate", "etg/special/SPECIAL_ABILITIES_HYPERSPACE_IN", 9.5, Playable, 1, "HGN_"},
+	{"Centauri", "Centauri", "hyperspace_gate_kpr", "etg/special/SPECIAL_ABILITIES_HYPERSPACE_IN", 9.5, Playable, 1, "KPR_"},
+	{"Narn", "Narn", "hyperspace_gate_bentusi", "etg/special/SPECIAL_ABILITIES_HYPERSPACE_IN", 9.5, Playable, 1, "VGR_"},
 	
 	{"Random",  "$3226", "", "", 0, Playable,1,""},
 
