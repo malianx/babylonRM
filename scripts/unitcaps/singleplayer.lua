@@ -5,14 +5,14 @@
 
 --
 UC_Family("Fighter", 14);
-UC_FamilyOverride("Vaygr","Fighter", 18);
+-- UC_FamilyOverride("Vaygr","Fighter", 18);
 UC_Family("Fighter_hw1", 70);
-UC_FamilyOverride("Kushan","Fighter", 70);
+-- UC_FamilyOverride("Kushan","Fighter", 70);
 
 --
 UC_Family("Corvette", 12);
 UC_Family("Corvette_hw1", 42);
-UC_FamilyOverride("Kushan","Corvette", 42);
+-- UC_FamilyOverride("Kushan","Corvette", 42);
 UC_ShipType("MinelayerCorvette",5);
 UC_ShipType("SalvageCorvette",14);
 
@@ -24,15 +24,15 @@ UC_Family("Frigate", 21);
 	UC_ShipType("DefenseFieldFrigate",2);
 	
 	UC_ShipType("CaptureFrigate",6);		-- max 6 capture frigates
-	UC_ShipTypeOverride("Hiigaran","CaptureFrigate",4); -- but max 4 for the hiigarans. As a TEST
+--	UC_ShipTypeOverride("Hiigaran","CaptureFrigate",4); -- but max 4 for the hiigarans. As a TEST
 --
 UC_Family("Capital", 12);
-UC_FamilyOverride("Vaygr", "Capital", 14);
+-- UC_FamilyOverride("Vaygr", "Capital", 14);
 UC_ShipType("Destroyer", 5);
-UC_ShipTypeOverride("Kushan","Destroyer",6);
-UC_ShipTypeOverride("Taiidan","Destroyer",6);
+-- UC_ShipTypeOverride("Kushan","Destroyer",6);
+-- UC_ShipTypeOverride("Taiidan","Destroyer",6);
 UC_ShipType("Carrier", 4);
-UC_ShipTypeOverride("Vaygr", "Carrier", 6);
+-- UC_ShipTypeOverride("Vaygr", "Carrier", 6);
 UC_ShipType("Battlecruiser",2);
 UC_ShipType("HeavyCruiser",2);
 UC_ShipType("Shipyard", 1);
@@ -76,7 +76,7 @@ UC_Family("SinglePlayerMisc", 100);
 
 --
 UC_Family("SinglePlayerMisc", 100);
-UC_FamilyOverride("Hiigaran","SinglePlayerMisc", 0 ); -- no singleplayer ships can be built/captured by the hiigarans
+-- UC_FamilyOverride("Hiigaran","SinglePlayerMisc", 0 ); -- no singleplayer ships can be built/captured by the hiigarans
 	UC_ShipType("Mover", 10);		-- max 10 movers
 
 --	

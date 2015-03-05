@@ -42,7 +42,7 @@ races =
     --pirate races to go here...
 
 	-- Babylon RM Races
-	{"Earth Force", "Earth Force", "hyperspace_gate", "etg/special/SPECIAL_ABILITIES_HYPERSPACE_IN", 9.5, Playable, 1, "HGN_"},
+	{"EarthForce", "Earth Force", "hyperspace_gate", "etg/special/SPECIAL_ABILITIES_HYPERSPACE_IN", 9.5, Playable, 1, "HGN_"},
 	{"Centauri", "Centauri", "hyperspace_gate_kpr", "etg/special/SPECIAL_ABILITIES_HYPERSPACE_IN", 9.5, Playable, 1, "KPR_"},
 	{"Narn", "Narn", "hyperspace_gate_bentusi", "etg/special/SPECIAL_ABILITIES_HYPERSPACE_IN", 9.5, Playable, 1, "VGR_"},
 	

@@ -1,5 +1,5 @@
 UC_Family("Fighter", 8);
-UC_FamilyOverride("Vaygr","Fighter", 9);
+-- UC_FamilyOverride("Vaygr","Fighter", 9);
 UC_Family("Fighter_hw1", 40);
 --
 UC_Family("Corvette", 8);
@@ -8,17 +8,17 @@ UC_ShipType("MinelayerCorvette",2);
 UC_ShipType("SalvageCorvette",10);
 --
 UC_Family("Frigate", 12);
-UC_FamilyOverride("Kushan","Frigate", 14);
-UC_FamilyOverride("Taiidan","Frigate", 14);
+-- UC_FamilyOverride("Kushan","Frigate", 14);
+-- UC_FamilyOverride("Taiidan","Frigate", 14);
 UC_ShipType("DefenseFieldFrigate",2);
 UC_ShipType("CaptureFrigate",4);
-UC_ShipTypeOverride("Hiigaran","CaptureFrigate",3);
+-- UC_ShipTypeOverride("Hiigaran","CaptureFrigate",3);
 --
 UC_Family("Capital", 10);
-UC_FamilyOverride("Vaygr", "Capital", 11);
+-- UC_FamilyOverride("Vaygr", "Capital", 11);
 UC_ShipType("Destroyer", 5);
 UC_ShipType("Carrier", 3);
-UC_ShipTypeOverride("Hiigaran", "Carrier", 2);
+-- UC_ShipTypeOverride("Hiigaran", "Carrier", 2);
 UC_ShipType("Battlecruiser",2);
 UC_ShipType("HeavyCruiser",2);
 UC_ShipType("Shipyard", 1);
