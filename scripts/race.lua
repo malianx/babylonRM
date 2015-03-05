@@ -43,7 +43,7 @@ races =
 
 	-- Babylon RM Races
 	{"EarthForce", "Earth Force", "hyperspace_gate", "etg/special/SPECIAL_ABILITIES_HYPERSPACE_IN", 9.5, Playable, 1, "HGN_"},
-	{"Centauri", "Centauri", "hyperspace_gate_kpr", "etg/special/SPECIAL_ABILITIES_HYPERSPACE_IN", 9.5, Playable, 1, "KPR_"},
+	{"Centauri", "Centauri", "hyperspace_gate_kpr", "etg/special/SPECIAL_ABILITIES_HYPERSPACE_IN", 9.5, Playable, 1, "TAI_"},
 	{"Narn", "Narn", "hyperspace_gate_bentusi", "etg/special/SPECIAL_ABILITIES_HYPERSPACE_IN", 9.5, Playable, 1, "VGR_"},
 	
 	{"Random",  "$3226", "", "", 0, Playable,1,""},
