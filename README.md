@@ -16,7 +16,7 @@ Additional Required Files/Directories from extracted Homeworld2.big:
   weapon/
   keeper.txt
 
-Modify desktop shortcut to include --moddatapath BabylonRM -luatrace
+Modify desktop shortcut to include -moddatapath BabylonRM -luatrace
 For Multiplayer, use -mpbeta switch (steam play requires workshop package install)
 
 Enjoy!
